@@ -10,7 +10,7 @@ require (
 	github.com/nuclio/loggerus v0.0.7
 	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.20.0
 	google.golang.org/grpc v1.79.2
 	k8s.io/api v0.35.2
 	k8s.io/apimachinery v0.35.2
